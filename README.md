@@ -13,7 +13,7 @@
 
 <br/>
 
-*Infrastructure · Cybersecurity · LLMOps*
+*LLMOps · Infrastructure · Cybersecurité*
 
 <br/>
 
