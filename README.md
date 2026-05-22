@@ -17,9 +17,9 @@
 
 <br/>
 
-[![LLMOps](https://img.shields.io/badge/LLMOps-Consultant-0f0f0f?style=flat-square&labelColor=0f0f0f&color=444)](https://github.com/liam)
-[![Since](https://img.shields.io/badge/AI_since-GPT--3.5-0f0f0f?style=flat-square&labelColor=0f0f0f&color=444)](https://github.com/liam)
-[![Infra](https://img.shields.io/badge/Infra_%26_Sec-6_ans-0f0f0f?style=flat-square&labelColor=0f0f0f&color=444)](https://github.com/liam)
+[![LLMOps](https://img.shields.io/badge/LLMOps-Consultant-0f0f0f?style=flat-square&labelColor=0f0f0f&color=444)](https://github.com/liamdbav)
+[![Since](https://img.shields.io/badge/AI_since-GPT--3.5-0f0f0f?style=flat-square&labelColor=0f0f0f&color=444)](https://github.com/liamdbav)
+[![Infra](https://img.shields.io/badge/Infra_%26_Sec-6_ans-0f0f0f?style=flat-square&labelColor=0f0f0f&color=444)](https://github.com/liamdbav)
 
 </div>
 
