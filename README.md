@@ -56,12 +56,3 @@ Ce avec quoi je pense et je construis généralement au quotidien.
 ![Obsidian](https://img.shields.io/badge/Obsidian-0f0f0f?style=flat-square&logo=obsidian&logoColor=7C3AED)
 
 ---
-
-### Suivez-moi
-
-Je partage ce que je lis, ce que je teste et ce que je pense sur l'IA, les LLMs et tout ce qui gravite autour.
-
-[![Twitter](https://img.shields.io/badge/@liamdbav-0f0f0f?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/liamdbav)
-[![Reddit](https://img.shields.io/badge/@liamdbav-0f0f0f?style=flat-square&logo=reddit&logoColor=FF4500)](https://reddit.com/user/liamdbav)
-
----
